@@ -1,0 +1,11 @@
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\bin\Debug\Sahibinden.pdb
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.exe
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.pdb
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Yeni klasör\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Form3.resources
